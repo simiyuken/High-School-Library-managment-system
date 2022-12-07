@@ -1,14 +1,11 @@
 # IMAGES ADDED:
- 1.ADDBOOK.
- 
- 2.DELETEBOOK.
- 
- 3.SEARCHBOOK.
- 
- 4.ISSUEBOOK.
- 
- 5.VIEWBOOK.
- 
- 6.DISPLAY VIEW.
 
-
+ 1.Add book details.
+ 
+ 2.Search Book
+ 
+ 3.Search student.
+ 
+ 4.Return book
+ 
+ 5.Home page
