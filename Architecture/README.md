@@ -9,7 +9,7 @@
 
 
 # BEHAVIOUR DIAGRAMS
- ### 1.Low level desigm
+ ### 1.Low level design
  state diagram
  ![IMG](https://i.pinimg.com/736x/c0/19/21/c019215ca831c0b0b75bdc2775e8e054--control-flow-uni.jpg)
  
